@@ -1,24 +1,5 @@
 # Tetris_ATP
 
-Como Jogar
-
-1.Execute o programa
-
-2.Digite seu nome
-
-3.Use as teclas:
-
-← → para mover
-
-↓ para descer
-
-Z para girar para esquerda
-
-X para girar para direita
-
-4.O jogo acaba quando novas peças não puderem entrar
-
-
 
 1 Projeto de Desenvolvimento do Jogo Tetris
 1.1 Objetivo
