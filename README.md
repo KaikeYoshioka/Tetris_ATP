@@ -1,11 +1,12 @@
 # Tetris_ATP
 
 Como Jogar
-Execute o programa
 
-Digite seu nome
+1.Execute o programa
 
-Use as teclas:
+2.Digite seu nome
+
+3.Use as teclas:
 
 ← → para mover
 
@@ -15,7 +16,7 @@ Z para girar para esquerda
 
 X para girar para direita
 
-O jogo acaba quando novas peças não puderem entrar
+4.O jogo acaba quando novas peças não puderem entrar
 
 
 
