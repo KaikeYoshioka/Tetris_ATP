@@ -27,7 +27,7 @@ namespace Tetris_ATP
         {
             Console.WriteLine("Bem-vindo ao Tetris!");
             Console.Write("Digite seu nome: ");
-            string nomeJogador = Console.ReadLine();
+            string nomeJogador = Console.ReadLine() ?? "jogador";
 
             GerarNovaPeca();
 

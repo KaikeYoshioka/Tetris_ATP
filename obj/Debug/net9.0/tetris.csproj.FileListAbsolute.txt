@@ -12,3 +12,18 @@ C:\Users\Kaike\Documents\PUC ADS\ATP\tetris\obj\Debug\net9.0\refint\tetris.dll
 C:\Users\Kaike\Documents\PUC ADS\ATP\tetris\obj\Debug\net9.0\tetris.pdb
 C:\Users\Kaike\Documents\PUC ADS\ATP\tetris\obj\Debug\net9.0\tetris.genruntimeconfig.cache
 C:\Users\Kaike\Documents\PUC ADS\ATP\tetris\obj\Debug\net9.0\ref\tetris.dll
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\bin\Debug\net9.0\tetris.exe
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\bin\Debug\net9.0\tetris.deps.json
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\bin\Debug\net9.0\tetris.runtimeconfig.json
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\bin\Debug\net9.0\tetris.dll
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\bin\Debug\net9.0\tetris.pdb
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.AssemblyInfoInputs.cache
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.AssemblyInfo.cs
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.csproj.CoreCompileInputs.cache
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.sourcelink.json
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.dll
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\refint\tetris.dll
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.pdb
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\tetris.genruntimeconfig.cache
+C:\Users\Kaike\Desktop\Nova pasta (2)\Tetris_ATP\obj\Debug\net9.0\ref\tetris.dll
