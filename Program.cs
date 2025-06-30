@@ -35,8 +35,7 @@ namespace Tetris_ATP
             {
                 DesenharTabuleiro();
                 Console.WriteLine($"Pontuação: {pontuacao}");
-                Console.WriteLine("Controles: A (esquerda), D (direita), W (rotacionar), S (descer)");
-
+                Console.WriteLine("Controles: A (esquerda), D (direita), W (rotacionar horário), Q (rotacionar anti-horário), S (descer)");
                 var tecla = Console.ReadKey(true).Key;
                 switch (tecla)
                 {
@@ -51,6 +50,9 @@ namespace Tetris_ATP
                         break;
                     case ConsoleKey.S:
                         MoverParaBaixo();
+                        break;
+                    case ConsoleKey.Q:
+                        RotacionarAntiHorario();
                         break;
                 }
 
@@ -93,6 +95,16 @@ namespace Tetris_ATP
                     }
                 }
                 Console.WriteLine();
+            }
+        }
+        private void RotacionarAntiHorario()
+        {
+            int rotacaoOriginal = pecaAtual.Rotacao;
+            pecaAtual.Rotacao = (pecaAtual.Rotacao + 3) % 4; // Retrocede uma rotação
+        
+            if (!PodePosicionarPeca())
+            {
+                pecaAtual.Rotacao = rotacaoOriginal;
             }
         }
 
